@@ -1,0 +1,40 @@
+Pokemon Name: Bulbasaur
+
+Types: Grass, Poison
+
+Main Moves: 
+Seed Bomb
+Sludge Bomb
+Power Whip
+Frustration (Shadow)
+Return (Purified)
+
+
+Description: The best moves for Bulbasaur are Vine Whip and Power Whip when attacking Pokémon in Gyms.  This move combination has the highest total DPS and is also the best moveset for PVP battles.
+
+Weak Against:
+- Flying
+- deals 160% damage.
+- Fire
+- deals 160% damage.
+- Psychic
+- deals 160% damage.
+- Ice
+- deals 160% damage.
+
+Resistance Against:
+- Fighting
+- deals 63% damage.
+- Water
+- deals 63% damage.
+- Electric
+- deals 63% damage.
+- Fairy
+- deals 63% damage.
+- Grass
+- deals 39% damage.
+
+Evolution
+Evolution
+There are currently a total of 3 Pokémon in the Bulbasaur family. Bulbasaur evolves into Ivysaur which costs 25 Candy, which then evolves into Venusaur costing 100 Candy.
+BulbasaurIvysaur25Venusaur100Mega VenusaurEvolving Mega Venusaur costs 200 Mega Energy the first time, and 40 Mega Energy every other time.No evolutions:Bulbasaur (Fall 2019)
